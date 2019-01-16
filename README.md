@@ -1,3 +1,3 @@
 # Hello
 
-This is my new repositery
+This is my new reporsitory
